@@ -1,0 +1,23 @@
+{
+  "name": "fluxible-plugin-config",
+  "version": "0.1.0",
+  "description": "Your config available form your component, action & store context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/Hairfie/fluxible-plugin-config.git"
+  },
+  "keywords": [
+    "fluxible",
+    "config"
+  ],
+  "author": "Antoine Hérault <antoine.herault@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hairfie/fluxible-plugin-config/issues"
+  },
+  "homepage": "https://github.com/Hairfie/fluxible-plugin-config"
+}
